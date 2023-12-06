@@ -1,7 +1,7 @@
 Hi, I’m Artemis.
 
 This is a place where I'm sharing the silly (and sometimes dangerous) things I create. 
-
+Please be aware if you use anything from this account, then you do so entirely at your own risk..
 
 <!---
 ArtemisMoss/ArtemisMoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
