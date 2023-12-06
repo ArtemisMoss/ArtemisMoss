@@ -1,4 +1,4 @@
-Hi, I’m @ArtemisMoss
+Hi, I’m Artemis.
 
 This is a place where I'm sharing the silly (and sometimes dangerous) things I create. 
 
